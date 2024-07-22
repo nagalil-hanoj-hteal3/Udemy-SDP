@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1719121809 source:c:\users\elaet\onedrive\desktop\ej-stuff\udemy-sdp\dft\waveforms.c
+
+1719123141 source:c:\users\elaet\onedrive\desktop\ej-stuff\udemy-sdp\dft\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
